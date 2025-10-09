@@ -1,4 +1,4 @@
-# 🚀Expensely
+# 🚀Receiptyze
 
 <p align="center">
   <img src="expensely-pics/home1.jpg" alt="Home 1" width="200"/>
@@ -23,14 +23,14 @@
 
 
 **Description:**
-Expensely is a Flutter application designed to help users scan, manage, and analyze their receipts efficiently. The app integrates Firebase for user authentication and data storage, providing a seamless experience for tracking expenses.
+Receiptyze is a Flutter application designed to help users scan, manage, and analyze their receipts efficiently. The app integrates Firebase for user authentication and data storage, providing a seamless experience for tracking expenses.
 
 ## 📱Features
 
 - **Receipt Scanning**: Users can scan receipts using the device camera and extract relevant data using an integrated Receipt API, allowing for quick data entry.
 
   <p align="center">
-  <img src="expensely-pics/OCR.jpg" alt="OCR" width="400"/>
+  <img src="-pics/OCR.jpg" alt="OCR" width="400"/>
 </p>
 
  
@@ -38,14 +38,14 @@ Expensely is a Flutter application designed to help users scan, manage, and anal
 - **Expense Management**: The app allows users to categorize their expenses based on the extracted data, making it easier to track spending habits.
 
   <p align="center">
-  <img src="expensely-pics/insights.jpg" alt="insights" width="400"/>
+  <img src="-pics/insights.jpg" alt="insights" width="400"/>
 </p>
 
 
 - **Gemini AI Integration**: Get Gemini powered insights into your spending habits.
 
   <p align="center">
-  <img src="expensely-pics/gemini_report.jpg" alt="gemini" width="400"/>
+  <img src="-pics/gemini_report.jpg" alt="gemini" width="400"/>
 </p>
 
 
@@ -101,7 +101,7 @@ To get a copy of the project up and running on your local machine, follow these 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vaibhavsingh7232/Expensely
+   git clone https://github.com/darth-divyansh/Receiptyze
    ```
 2. Navigate to the Project Directory: Change into the project directory with the command:
    ```bash
