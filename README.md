@@ -1,22 +1,22 @@
 # 🚀Receiptyze
 
 <p align="center">
-  <img src="expensely-pics/home1.jpg" alt="Home 1" width="200"/>
-  <img src="expensely-pics/home2.jpg" alt="Home 2" width="200"/>
-  <img src="expensely-pics/home3.jpg" alt="Home 3" width="200"/>
+  <img src="receiptyze-pics/home1.jpg" alt="Home 1" width="200"/>
+  <img src="receiptyze-pics/home2.jpg" alt="Home 2" width="200"/>
+  <img src="receiptyze-pics/home3.jpg" alt="Home 3" width="200"/>
 </p>
 
 <p align="center">
-  <img src="expensely-pics/signup.jpg" alt="Sign-Up" width="200"/>
-  <img src="expensely-pics/verify_screen.jpg" alt="Verify Screen" width="200"/>
-  <img src="expensely-pics/Login.jpg" alt="Login" width="200"/>
+  <img src="receiptyze-pics/signup.jpg" alt="Sign-Up" width="200"/>
+  <img src="receiptyze-pics/verify_screen.jpg" alt="Verify Screen" width="200"/>
+  <img src="receiptyze-pics/Login.jpg" alt="Login" width="200"/>
 </p>
 
 
 
 
 <p align="center">
-  <img src="expensely-pics/welcome.jpg" alt="Welcome" width="400"/>
+  <img src="receiptyze-pics/welcome.jpg" alt="Welcome" width="400"/>
 </p>
 
 
@@ -52,41 +52,41 @@ Receiptyze is a Flutter application designed to help users scan, manage, and ana
 - **Data Visualization**: Users can visualize their expenses through interactive pie charts and graphs, helping them understand their financial situation at a glance.
 
   <p align="center">
-  <img src="expensely-pics/charts.jpg" alt="chart" width="400"/>
+  <img src="receiptyze-pics/charts.jpg" alt="chart" width="400"/>
 </p>
 
 
 - **Budget Setting**: Users can set and manage budgets for different expense categories, with alerts for budget limits to promote better financial management.
 
   <p align="center">
-  <img src="expensely-pics/budget.jpg" alt="budget" width="400"/>
+  <img src="receiptyze-pics/budget.jpg" alt="budget" width="400"/>
 </p>
 
   
 - **Custom Categories**: The app supports custom expense categories, enabling users to tailor their tracking to their specific needs.
 
   <p align="center">
-  <img src="expensely-pics/categories.jpg" alt="categories" width="400"/>
+  <img src="receiptyze-pics/categories.jpg" alt="categories" width="400"/>
 </p>
 
 
 - **Bill Splitting**: Users can split the bill with other people.
 
   <p align="center">
-  <img src="expensely-pics/bill_split.jpg" alt="bill_split" width="400"/>
+  <img src="receiptyze-pics/bill_split.jpg" alt="bill_split" width="400"/>
 </p>
 
 
 - **Settings**: The app has settings page to change the profile picture, logout & sign in another user.
 
   <p align="center">
-  <img src="expensely-pics/settings.jpg" alt="settings" width="400"/>
+  <img src="receiptyze-pics/settings.jpg" alt="settings" width="400"/>
 </p>
 
 - **Offline Functionality**: The app supports offline mode, allowing users to access their receipts and data even without an internet connection.
 
  <p align="center">
-  <img src="expensely-pics/reciepts.jpg" alt="reciepts.jpg" width="400"/>
+  <img src="receiptyze-pics/reciepts.jpg" alt="reciepts.jpg" width="400"/>
 </p>
 
 
