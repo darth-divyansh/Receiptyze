@@ -1,4 +1,4 @@
-# 🚀Expensely
+# 🚀Receiptyze
 
 <p align="center">
   <img src="expensely-pics/home1.jpg" alt="Home 1" width="200"/>
@@ -23,14 +23,14 @@
 
 
 **Description:**
-Expensely is a Flutter application designed to help users scan, manage, and analyze their receipts efficiently. The app integrates Firebase for user authentication and data storage, providing a seamless experience for tracking expenses.
+Receiptyze is a Flutter application designed to help users scan, manage, and analyze their receipts efficiently. The app integrates Firebase for user authentication and data storage, providing a seamless experience for tracking expenses.
 
 ## 📱Features
 
 - **Receipt Scanning**: Users can scan receipts using the device camera and extract relevant data using an integrated Receipt API, allowing for quick data entry.
 
   <p align="center">
-  <img src="expensely-pics/OCR.jpg" alt="OCR" width="400"/>
+  <img src="-pics/OCR.jpg" alt="OCR" width="400"/>
 </p>
 
  
@@ -38,55 +38,55 @@ Expensely is a Flutter application designed to help users scan, manage, and anal
 - **Expense Management**: The app allows users to categorize their expenses based on the extracted data, making it easier to track spending habits.
 
   <p align="center">
-  <img src="expensely-pics/insights.jpg" alt="insights" width="400"/>
+  <img src="-pics/insights.jpg" alt="insights" width="400"/>
 </p>
 
 
 - **Gemini AI Integration**: Get Gemini powered insights into your spending habits.
 
   <p align="center">
-  <img src="expensely-pics/gemini_report.jpg" alt="gemini" width="400"/>
+  <img src="-pics/gemini_report.jpg" alt="gemini" width="400"/>
 </p>
 
 
 - **Data Visualization**: Users can visualize their expenses through interactive pie charts and graphs, helping them understand their financial situation at a glance.
 
   <p align="center">
-  <img src="expensely-pics/charts.jpg" alt="chart" width="400"/>
+  <img src="-pics/charts.jpg" alt="chart" width="400"/>
 </p>
 
 
 - **Budget Setting**: Users can set and manage budgets for different expense categories, with alerts for budget limits to promote better financial management.
 
   <p align="center">
-  <img src="expensely-pics/budget.jpg" alt="budget" width="400"/>
+  <img src="-pics/budget.jpg" alt="budget" width="400"/>
 </p>
 
   
 - **Custom Categories**: The app supports custom expense categories, enabling users to tailor their tracking to their specific needs.
 
   <p align="center">
-  <img src="expensely-pics/categories.jpg" alt="categories" width="400"/>
+  <img src="-pics/categories.jpg" alt="categories" width="400"/>
 </p>
 
 
 - **Bill Splitting**: Users can split the bill with other people.
 
   <p align="center">
-  <img src="expensely-pics/bill_split.jpg" alt="bill_split" width="400"/>
+  <img src="-pics/bill_split.jpg" alt="bill_split" width="400"/>
 </p>
 
 
 - **Settings**: The app has settings page to change the profile picture, logout & sign in another user.
 
   <p align="center">
-  <img src="expensely-pics/settings.jpg" alt="settings" width="400"/>
+  <img src="-pics/settings.jpg" alt="settings" width="400"/>
 </p>
 
 - **Offline Functionality**: The app supports offline mode, allowing users to access their receipts and data even without an internet connection.
 
  <p align="center">
-  <img src="expensely-pics/reciepts.jpg" alt="reciepts.jpg" width="400"/>
+  <img src="-pics/reciepts.jpg" alt="reciepts.jpg" width="400"/>
 </p>
 
 
@@ -101,7 +101,7 @@ To get a copy of the project up and running on your local machine, follow these 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vaibhavsingh7232/Expensely
+   git clone https://github.com/darth-divyansh/Receiptyze
    ```
 2. Navigate to the Project Directory: Change into the project directory with the command:
    ```bash
