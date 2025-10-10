@@ -30,7 +30,7 @@ Receiptyze is a Flutter application designed to help users scan, manage, and ana
 - **Receipt Scanning**: Users can scan receipts using the device camera and extract relevant data using an integrated Receipt API, allowing for quick data entry.
 
   <p align="center">
-  <img src="-pics/OCR.jpg" alt="OCR" width="400"/>
+  <img src="receiptyze-pics/OCR.jpg" alt="OCR" width="400"/>
 </p>
 
  
@@ -38,14 +38,14 @@ Receiptyze is a Flutter application designed to help users scan, manage, and ana
 - **Expense Management**: The app allows users to categorize their expenses based on the extracted data, making it easier to track spending habits.
 
   <p align="center">
-  <img src="-pics/insights.jpg" alt="insights" width="400"/>
+  <img src="receiptyze-pics/insights.jpg" alt="insights" width="400"/>
 </p>
 
 
 - **Gemini AI Integration**: Get Gemini powered insights into your spending habits.
 
   <p align="center">
-  <img src="-pics/gemini_report.jpg" alt="gemini" width="400"/>
+  <img src="receiptyze-pics/gemini_report.jpg" alt="gemini" width="400"/>
 </p>
 
 
